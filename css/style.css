@@ -388,7 +388,7 @@ body {
     box-shadow: inset -1px 0 #d0004c;
 }
 
-#panels ul:nth-child(2) { background: #fff url("../img/ritsu.jpg") repeat center left fixed; }
+#panels ul:nth-child(2) { background: #fff url("../img/cloudtrees.jpg") repeat center left fixed ; }
 #panels ul:nth-child(3) { background: #fff url("../img/bg-3.gif") repeat center left fixed; }
 
 #panels ul[active] {
